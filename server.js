@@ -26,7 +26,7 @@ app.get('/',function(req,res){
 });
 
 // Post on upload on submit button would call upload function
-// to store the file into storage
+// to store the file into storage.
 app.post('/upload',function(req,res){
     upload(req,res,function(err) {
         if(err) {
