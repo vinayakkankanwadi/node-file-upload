@@ -1,4 +1,4 @@
-# node-file-upload
+# Node-file-upload
 ## Node File Upload using Multer
 
 ### Step 1: Create package.json file as below
